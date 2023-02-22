@@ -1,1 +1,3 @@
-Welcome to my project!
+Welcome to MyProject!
+
+Author: Yohanes
